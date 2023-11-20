@@ -1,0 +1,7 @@
+.background {
+  width: 100%;
+  height: auto;
+  z-index: 20;
+  inset: 0;
+  position: fixed;
+}
